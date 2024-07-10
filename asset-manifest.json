@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hari200320/portfolio.git/static/css/main.a711a618.css",
+    "main.js": "/hari200320/portfolio.git/static/js/main.5e3c29cd.js",
+    "static/js/453.ace21015.chunk.js": "/hari200320/portfolio.git/static/js/453.ace21015.chunk.js",
+    "static/media/my_resume.pdf": "/hari200320/portfolio.git/static/media/my_resume.dfb525e7278cc9ebd194.pdf",
+    "static/media/home-main.svg": "/hari200320/portfolio.git/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/hari200320/portfolio.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/donation.jpg": "/hari200320/portfolio.git/static/media/donation.2df3aae866046d587a09.jpg",
+    "static/media/home-bg.jpg": "/hari200320/portfolio.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/hari200320/portfolio.git/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/hari200320/portfolio.git/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/hari200320/portfolio.git/index.html",
+    "main.a711a618.css.map": "/hari200320/portfolio.git/static/css/main.a711a618.css.map",
+    "main.5e3c29cd.js.map": "/hari200320/portfolio.git/static/js/main.5e3c29cd.js.map",
+    "453.ace21015.chunk.js.map": "/hari200320/portfolio.git/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a711a618.css",
+    "static/js/main.5e3c29cd.js"
+  ]
+}
